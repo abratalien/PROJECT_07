@@ -23,7 +23,7 @@ try:
             "sequence_id": packet_sequence,
             "timestamp": time.time(),
             "engine_id": "GTRE_GT_01",
-            "temperature_c": 850.5,
+            "temperature_c": 859.5,
             "pressure_psi": 145.2,
             "rpm": 12500,
             "vibration_mms": 0.04,
